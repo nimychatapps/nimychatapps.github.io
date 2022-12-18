@@ -2,16 +2,16 @@
     "Status": true,
     "HttpStatus": 200,
     "Data": {
-        "ShowAds": false,
+        "ShowAds": true,
         "Ads": [
 			{
 				"MonetizationId": 1,
 				"MonetizerName": "Facebook Monetization",
-				"AdAppKey": "FFFFFFFF",
-				"BannerAdKey": "FFFFFFFF",
-				"InterstitialAdKey": "FFFFFFFF",
-				"RewardedAdKey": "FFFFFFFF",
-				"NativeAdKey": "FFFFFFFF"
+				"AdAppKey": "538101997881414",
+				"BannerAdKey": "538101997881414_550421953316085",
+				"InterstitialAdKey": "538101997881414_550422049982742",
+				"RewardedAdKey": "538101997881414_550422313316049",
+				"NativeAdKey": "538101997881414_550422179982729"
 			},
             {
                 "MonetizationId": 6,
